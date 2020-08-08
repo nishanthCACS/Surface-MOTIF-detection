@@ -9,7 +9,7 @@ import pickle
 import numpy as np
 import matplotlib.pyplot as plt
 
-working_dir = "C:/Users/nishy/Documents/Projects_UL/mot_if_STUDY/Deep_learning_data_initialization"
+working_dir = "saving directory.../Deep_learning_data_initialization"
 os.chdir('/')
 os.chdir(working_dir)
 
