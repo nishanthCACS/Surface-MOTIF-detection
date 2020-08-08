@@ -1,2 +1,2 @@
-# Protein_functional_detection
+# MOTIF_detection
 Thesis_related
