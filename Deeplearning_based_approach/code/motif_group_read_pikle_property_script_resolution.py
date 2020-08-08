@@ -12,8 +12,8 @@ import pickle
 Script on ongo
 
 """
-working_dir = "C:/Users/nishy/Documents/Projects_UL/mot_if_STUDY/onco_started/finalised_pikle_results_groups/resolution_dip_ongo_results"
-saving_dir =  "C:/Users/nishy/Documents/Projects_UL/mot_if_STUDY/onco_started/finalised_pikle_results_groups/property_results_ongo"
+working_dir = "saving directory.../onco_started/finalised_pikle_results_groups/resolution_dip_ongo_results"
+saving_dir =  "saving directory.../onco_started/finalised_pikle_results_groups/property_results_ongo"
 #% then load the pikle results and form the dip set for training
 """
 This file go through th epikle files created by 
@@ -51,8 +51,8 @@ for pdb_id in pdb_name_unique:
 Script on TSG
 
 """
-working_dir = "C:/Users/nishy/Documents/Projects_UL/mot_if_STUDY/TSG/finalised_pikle_results_groups/resolution_dip_tsg_results"
-saving_dir =  "C:/Users/nishy/Documents/Projects_UL/mot_if_STUDY/TSG/finalised_pikle_results_groups/property_results_tsg"
+working_dir = "saving directory.../TSG/finalised_pikle_results_groups/resolution_dip_tsg_results"
+saving_dir =  "saving directory.../TSG/finalised_pikle_results_groups/property_results_tsg"
 #% then load the pikle results and form the dip set for training
 """
 This file go through th epikle files created by 
