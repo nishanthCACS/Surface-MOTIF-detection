@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on %(date)s
+Created on %24-April-2018
 
 @author: %A.Nishanth C00294860
 """
@@ -12,13 +12,13 @@ import numpy as np
 import copy#to make deep copy
 
 #%% load the resolution and the pdb ids coreesponding to that list
-os.chdir('C:/Users/nishy/Desktop/MOTIF_project/')
+os.chdir('saving directory...')
 id_string = pickle.load(open( "id_tsg.p", "rb" ))
 res =pickle.load(open( "res_tsg.p", "rb" ))    
 
 #%% to run the script
-working_dir = "C:/Users/nishy/Documents/Projects_UL/mot_if_STUDY/TSG"
-saving_dir = "C:/Users/nishy/Documents/Projects_UL/mot_if_STUDY/TSG/finalised_pikle_results_groups/resolution_dip_tsg_results"
+working_dir = "saving directory.../TSG"
+saving_dir = "saving directory.../TSG/finalised_pikle_results_groups/resolution_dip_tsg_results"
 os.chdir('/')
 os.chdir(working_dir)
 print(os.getcwd())
