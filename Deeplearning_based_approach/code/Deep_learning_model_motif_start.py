@@ -50,7 +50,7 @@ def accuracy(predictions, batch_labels):
             acc = acc + 1
     return 100*acc/len(batch_labels)
 #%% load the way_1 training set
-working_dir = "C:/Users/nishy/Documents/Projects_UL/mot_if_STUDY/Deep_learning_data_initialization"
+working_dir = "saving directory.../Deep_learning_data_initialization"
 os.chdir('/')
 os.chdir(working_dir)
 train = np.load('shuffled_all_data.npy') 
