@@ -43,7 +43,7 @@ The 2-way has some issues
     Since Each PDB has atleat 100 subclasses
     Training is expensive for computation
 """
-saving_dir = "C:/Users/nishy/Documents/Projects_UL/mot_if_STUDY/Deep_learning_data_initialization"
+saving_dir = " saving directory information .../Deep_learning_data_initialization"
 """
 
                     1-Way of creation is mentioned below
@@ -70,14 +70,14 @@ creating the data for Deep learning once it created it can be loaded from numpy 
 No need to run this cell
 """
 #% load the property file of ONGO
-ongo_loading_dir =  "C:/Users/nishy/Documents/Projects_UL/mot_if_STUDY/onco_started/finalised_pikle_results_groups/property_results_ongo"
+ongo_loading_dir =  "saving directory information .../onco_started/finalised_pikle_results_groups/property_results_ongo"
 ongo_prop_origin = load_pikle_type(ongo_loading_dir)
 #% save the numpy array of the file
 os.chdir('/')
 os.chdir(saving_dir)
 np.save('ongo_prop_origin.npy',ongo_prop_origin)   
 #% load the property file of TSG
-tsg_loading_dir =  "C:/Users/nishy/Documents/Projects_UL/mot_if_STUDY/TSG/finalised_pikle_results_groups/property_results_tsg"
+tsg_loading_dir =  "saving directory information.../TSG/finalised_pikle_results_groups/property_results_tsg"
 tsg_prop_origin = load_pikle_type(tsg_loading_dir)
 #% save the numpy array
 os.chdir('/')
@@ -92,7 +92,7 @@ for i in range(0,len(ongo_prop_origin)):
     all_label[i][0]=1
 np.save('all_label.npy',all_label) 
 #%% since the label first half is ongo and the second half is TSG
-saving_dir = "C:/Users/nishy/Documents/Projects_UL/mot_if_STUDY/Deep_learning_data_initialization"
+saving_dir = "saving directory information.../Deep_learning_data_initialization"
 os.chdir('/')
 os.chdir(saving_dir)
 all_data = np.load('all_data.npy') 
