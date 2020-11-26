@@ -1,0 +1,37 @@
+
+
+These folowing two documets tell the unique groups hits more than 15 among them, with the index and hits
+where hits tell group fell into howmany PDBs.
+
+	summary_ongo_chk
+	summary_tsg_chk
+
+These folowing two documets tell unique groups in all
+Thats mean tsg unique doesn't have same kind of group in ongo
+
+	summary_tsg_unique
+	summary_ongo_unique
+		the documents have old Index and newindex where old index can make look up to the 
+		documents summary_ongo_chk, summary_tsg_chk
+
+These folowing two documets basically made with the hashmap ids which is only used for unique group 
+finding purposes
+	summary_ongo_group_numbered_chk
+	summary_tsg_group_numbered_chk
+	
+These folowing two documets PDBs satisfied by groups of MOTIFs
+	summary_ongo_group_satisfied_PDB_ids
+	summary_tsg_group_satisfied_PDB_ids
+	
+These folowing two documets PDBs unsatisfied by groups of MOTIFs
+	summary_ongo_group_un_satisfied_PDB_ids
+	summary_tsg_group_un_satisfied_PDB_ids
+
+--------------------------------------------------- Extention ideas ------------------------------
+	
+Give these staisfied PDBs for our earlier trained archtechture and check how much accuracy it gets
+or
+Train the architechture with these PDBids only with data augmentation in training set,
+ principal componenet analysed data is easy for augmentation 
+
+Give the unsatisfied PDBs and check the accuracy
