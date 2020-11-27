@@ -5,8 +5,9 @@ Thesis_related
 The underling hypotheis is just only considering surface residues to classify the proteins' functionality.
 Inorder to do this canser based functions such as ONGO Vs TSG PDBs are used.
 
+These repositary contains the projects(approaches) related to my desseration work, thus the codes and reports presented in the repositery copyright reserved to ULL.
+
 # Approaches
-These repositary contains the projects related to my desseration work, thus the codes and reports presented in the repositery copyright reserved to ULL.
 
  ## Excaustive_search ## 
 As name claims searching all possible MOTIFs on the surface of protein structure.
