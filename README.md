@@ -23,7 +23,7 @@ The intial statistics promosing to lead on this direction.
 
  
  ## Deeplearning_based_approach ## 
-  proposing a CNN-deeplearning model to prove the hypothesis.
+  Proposing a CNN-deeplearning model to prove the hypothesis.
   Unfortunately the lack of the structure details the results obtained not prove the hypothesis.
 
   Inorder to obatin more details please check the report "MOTIF_deep_learning_GitHub" attached in the folder.
