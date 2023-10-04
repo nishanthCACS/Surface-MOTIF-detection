@@ -1,5 +1,5 @@
-# Surface_MOTIF_detection
-Thesis_related
+# Surface MOTIF detection
+Thesis related project
 
 # Discription
 The underling hypotheis is just only considering surface residues to classify the proteins' functionality.
