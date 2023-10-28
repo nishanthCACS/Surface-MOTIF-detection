@@ -40,11 +40,13 @@ The initial statistics are promising and can guide us in this direction.
   this hypothesis may be supported based on the idea proposed in this report. 
     First, obtain the functionally relevant structures based on the statistics, then use the deep learning model
   to find the undetected srs-MOTIFs.
+  
 ## Contact
 For more details, feel free to reach me via LinkedIn
 www.linkedin.com/in/nishanth-anand
 
 If you find the approaches and the results presented are helpful, please cite.
+
 [1] Anandanadarajah, N., Chu, C. H., & Loganantharaj, R. (2021). An integrated deep learning and dynamic programming method for predicting tumor suppressor genes, oncogenes, and fusion from PDB structures. In Computers in Biology and Medicine (Vol. 133, p. 104323). Elsevier BV. https://doi.org/10.1016/j.compbiomed.2021.104323
-[2] 
+
 
