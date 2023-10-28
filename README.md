@@ -9,7 +9,7 @@ This repository contains the projects(approaches) related to my dissertation wor
 
 # Approaches
 
- ## Excaustive_search ## 
+ ## Excaustive search ## 
 
 We search all possible MOTIFs on the surface  (srs-MOTIF) of the 3D (PDB) structure.
 
@@ -18,7 +18,7 @@ Unfortunately, the lack of structure details in the search procedure makes it di
 
 To obtain more details, please check the report "Excaustive_search_Report_Part_from_my_desseration_work" attached in the folder.
  
- ## Statistics_of_Patterns_find_Possible-SRS-MOTIFs ## 
+ ## Statistics of Patterns to Find Possible SRS-MOTIFs ## 
 
 Instead of exhaustively searching, we can use the statistics of the central residue and the residues in the SRS-MOTIF.
 The initial statistics are promising and can guide us in this direction.
@@ -28,7 +28,7 @@ The initial statistics are promising and can guide us in this direction.
  Currently, the project is on hold.
 
 
- ## Deeplearning_based_approach ## 
+ ## Deep learning based approach ## 
   Proposed a CNN-deep learning model to evaluate the hypothesis. 
   First, suspected small structures (srs-MOTIFs) were obtained and represented.
   I suspect that most small structures with no functionality assigned with functionality may produce noise.
