@@ -1,5 +1,5 @@
 # Surface MOTIF detection
-Thesis related project
+The overall project is part of the dissertation's final stage. Due to lack of time, this project is on hold.
 
 # Discription
 The underlying hypothesis only considers part of the surface residues (srs-MOTIF) to classify the proteins' functionality on the surface of the protein molecules.
