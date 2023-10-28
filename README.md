@@ -35,7 +35,7 @@ The initial statistics are promising and can guide us in this direction.
 
   To obtain more details, please check the report "MOTIF_deep_learning_GitHub" attached in the folder.
 
-  ## Time
+  ## Future direction
   Due to the continuous effort of the researchers and the rapid increase in deposits of the PDB structures, 
   this hypothesis may be supported based on the idea proposed in this report. 
     First, obtain the functionally relevant structures based on the statistics, then use the deep learning model
